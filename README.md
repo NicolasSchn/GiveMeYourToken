@@ -1,5 +1,5 @@
 # GiveMeYourToken
-POC for Mining Tokens exploitation (https://www.vectra.ai/blogpost/undermining-microsoft-teams-security-by-mining-tokens)
+POC for Mining unencrypted Teams tokens (https://www.vectra.ai/blogpost/undermining-microsoft-teams-security-by-mining-tokens)
 
 This script will: 
 
